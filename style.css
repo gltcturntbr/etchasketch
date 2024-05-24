@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    font-family: "Comic Sans Ms";
+}
+
+* {
+    background-color: bisque;
+}
+
+.bigthing {
+    display: flex;
+    margin: auto;
+    background-color: aqua;
+    height: 50vh;
+    width: 80vh;
+}
