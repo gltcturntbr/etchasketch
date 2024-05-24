@@ -10,7 +10,13 @@ h1 {
 .bigthing {
     display: flex;
     margin: auto;
-    background-color: aqua;
     height: 50vh;
-    width: 80vh;
+    width: 500px;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 5px;
+    row-gap: 0px;
+    
+     
 }
