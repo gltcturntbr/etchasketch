@@ -1,22 +1,21 @@
-h1 {
-    text-align: center;
-    font-family: "Comic Sans Ms";
-}
-
 * {
-    background-color: bisque;
+  background-color: beige;
+  font-family: "Comic Sans Ms";
+  text-align: center;
 }
 
+button {
+    padding: 20px;
+    margin: 0 30px;
+}
 .bigthing {
-    display: flex;
-    margin: auto;
-    height: 50vh;
-    width: 500px;
-    justify-content: space-evenly;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 5px;
-    row-gap: 0px;
-    
-     
+  display: flex;
+  margin: auto;
+  height: 50vh;
+  width: 500px;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+  row-gap: 0px;
 }
